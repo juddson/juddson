@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juddson
 - 👀 I’m interested in robotics and automation.
 - 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me dont
+- 💞️ I’m looking to collaborate on web development.
+- 📫 How to reach me, email!
 
 <!---
 juddson/juddson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
