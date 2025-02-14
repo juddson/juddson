@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juddson
 - 👀 I’m interested in robotics and automation.
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on web development.
+- 🌱 I’m currently learning c#!
+- 💞️ I’m looking to collaborate on web and game development.
 - 📫 How to reach me, email!
 
 <!---
