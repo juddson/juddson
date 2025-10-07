@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @juddson
-- 👀 I’m interested in robotics and automation.
+- 👀 I’m interested in robotics, automation, controls, web/game development.
 - 🌱 I’m currently learning c#!
-- 💞️ I’m looking to collaborate on web and game development.
+- 💞️ I’m looking to collaborate on any automation projects and web/game development.
 - 📫 How to reach me, email!
-
-<!---
-juddson/juddson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
